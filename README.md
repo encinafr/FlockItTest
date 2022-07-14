@@ -8,8 +8,8 @@
 
 
 
-> El API expone dos endpoints vpost Auth/Login y Get Geo/State
-> los paramteros solicitados pueden ser vistos a travez de swagger.
+> El API expone dos endpoints post Auth/Login y Get Geo/State
+> los paramteros solicitados pueden ser vistos a través de swagger.
 
 ## Tenologías y Librerías Utilizadas
 - .Net 5 
