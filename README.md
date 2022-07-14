@@ -8,7 +8,7 @@
 
 
 
-> El API expone dos endpointsvpost Auth/Login y Get Geo/State
+> El API expone dos endpoints vpost Auth/Login y Get Geo/State
 > los paramteros solicitados pueden ser vistos a travez de swagger.
 
 ## Tenologías y Librerías Utilizadas
@@ -16,13 +16,12 @@
 - Sql Server
 - EF 
 - Swagger
-- Autommaper
+- AutoMmaper
 - InMemoryDataBase (Para los UniTest)
 
 ## Instalación
-Tener instalado Visual Studio/ VS code
-Tener instalada la versión de .Net 5
-Tener instalado SqlServer Express
+Tener instalado Visual Studio/ VS code, la versión de .Net 5
+y SqlServer Express
 
 Instalar las dependencias y levantar la aplicación.
 
