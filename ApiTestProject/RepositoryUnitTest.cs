@@ -8,11 +8,11 @@ using Xunit;
 
 namespace ApiTestProject
 {
-    public class UnitTest
+    public class RepositoryUnitTest
     {
         private DbContextOptions<DataContext> dbContextOptions;
 
-        public UnitTest()
+        public RepositoryUnitTest()
         {
             var dbName = $"FlockitDb_{DateTime.Now.ToFileTimeUtc()}";
             dbContextOptions = new DbContextOptionsBuilder<DataContext>().UseInMemoryDatabase(dbName).Options;
